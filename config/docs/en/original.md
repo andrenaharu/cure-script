@@ -1,11 +1,12 @@
 # By nunko/dinuz
 
-In minor editing. If you want to help, [PM me](adokapus@gmail.com). Transcript originally by [nunko](https://discord.com/users/367391904343523339)/dinuz.
-For feedback, tips, edit permissions or stuff I might have overseen or made unclear/inaccurate (mail <code>**Mordraug**</code> or `モルドラウグ`), or just contact me on Discord [Mordraug (ID “morudoraugu”)](https://discord.com/users/501133947044888605).  
+Basically finished. Transcript originally by [nunko](https://discordapp.com/users/367391904343523339)/dinuz, but it was passed to me.
+For feedback, tips, edit permissions or stuff I might have overseen or made unclear/inaccurate (mail [Mordraug](mailto:adokapus@gmail.com) or [モルドラウグ](mailto:mordraug666@gmail.com)), or just contact me on Discord [Mordraug (ID “morudoraugu”)](https://discord.com/users/501133947044888605).
 
 Since I am careful about bots/scams, I do not accept randoms, so you should also let me know either through a message / email or join [the MoeWay Discord](https://discord.gg/zf3QTdsD), so I know it is someone Japanese-related.
 
-*For a VERY comprehensive list of resources covering all areas of Japanese, I wrote [this Google docs document](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit#), where I also record all Japanese observations & experiences I had/read about.*
+For a VERY comprehensive list of resources covering all areas of Japanese, I wrote this Diary of mine “[Mordraug's Personal Japanese Observations Diary](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit?tab=t.0#heading=h.pl6re36m6uy2)”, where I also record all Japanese observations & experiences I had/read about, all sources, tools, info… everything about Japanese.
+It is my ultimate resource, please take my words with a grain of salt though, my view is still limited.
 
 Also sorry if this editing style gives you headaches, I like to highlight things so they are visible:D
 
@@ -13,49 +14,29 @@ Also sorry if this editing style gives you headaches, I like to highlight things
 
 It came to my attention that there exist copies of the transcript on webpages (currently, it is just copies of this transcript as it is), so now you can simply use them (such as in case this lags etc. + it is much easier to use), there are these two:
 
-https://kellenok.github.io/cure-script/table-of-contents.html - credit to [Kellen](https://bento.me/kln) - this one is amazing, recommend using it.
+[https://kellenok.github.io/cure-script/about.html](https://kellenok.github.io/cure-script/about.html) - credit to [Kellen](https://bento.me/kln) - this one is amazing, recommend using it. I’d say it is quite a superior version to the Google Docs already. Very nice to read, fast, tidy and easy to use + easily searchable on the net (unlike Google Docs and its limitations). I HIGHLY RECOMMEND USING THIS INSTEAD OF THIS TRANSCRIPT.
 
-https://onlyduyy.github.io/cure-dolly-transcript/ - credit to [onlyduyy](http://discordapp.com/users/1033545096286720102) - a less sophisticated, raw version, currently, duyy recommends to use Kellen’s version, but I’ll put it here just in case and all since it’s still really useful in case something happens etc.
+[https://khanhduy743.github.io/cure-dolly-transcript/](https://khanhduy743.github.io/cure-dolly-transcript/) - credit to [duykhanh471](https://discord.com/users/1173988897869541382) - a less sophisticated, raw version, currently, duyy recommends to use Kellen’s version, but I’ll put it here just in case and all since it’s still really useful in case something happens etc.
 
 Thank you for taking the time to create these sites.
 
-## PDF
+---
 
-If you want to download this whole document, unfortunately due to Google Docs limitations, you cannot download the PDF and EPUB file forms since the document is too big for it, so it will not trigger the download, the way I found is to download the Word form and then convert it to a PDF, which mostly works, but the images will have worse quality unless you use some quality software & it will be somewhat blurry; also no Yomitan / 10ten *(tho can use Yomininja - must-have tool imo)*
+## PDF / Download
+
+If you want to download this whole document, unfortunately due to Google Docs limitations, you cannot download the PDF file forms since the document is too big for it, so it will not trigger the download.
+The way I found is to download the Word form and then convert it to a PDF, which mostly works, but the images will have worse quality unless you use some quality software & it will be somewhat blurry; also no Yomitan / 10ten (tho can use [OwOCR](https://github.com/AuroraWright/owocr), [GSM](https://github.com/bpwhelan/GameSentenceMiner) or [Yomininja](https://github.com/matt-m-o/YomiNinja)).
 The formatting of the text might also be a bit screwed up there, but should be good enough.
 
-However, “AlekDavid_” came up with a pretty simple solution and that is to simply divide the transcript into parts and put them as links here, which will enable direct PDF, EPUB etc. download.
-So, here they are (the file sizes are still quite big though):
-
-### Full Transcript (YOU ARE HERE)
-
-[Cure Dolly Complete Grammar Series Transcript (in minor editing)](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/)
-
-### Lessons 1-25
-
-https://docs.google.com/document/d/1YzmoaXlZSDZx54gG3tB5jLj73VU5four8emXNCYP7s0/edit?usp=sharing
-
-### Lessons 26-50
-
-https://docs.google.com/document/d/1jgGfW9IEZm3d7kTsA2Fr1NgYzHdTlxLKexzDwqTceN8/edit?usp=sharing
-
-### Lessons 51-75
-
-https://docs.google.com/document/d/1GMDmMr-o2hQg8CCHt0UniRBx1VUnVVMQLpxzeJM0hJ8/edit?usp=sharing
-
-### Lessons 76-97
-
-https://docs.google.com/document/d/1eld0gHy94G5xkXFgEj0oRs18iUCmDGTsf8wOc3y_zjk/edit?usp=sharing
-
-If you want to download this massive transcript in PDF etc., click on these links and click Download as PDF etc. up in the “File” tab. It might still take roughly 20 seconds for the download to initiate, but it should work fine. This also might be useful if this full instance of the transcript lags for you. I suppose it should lag less there. You could then merge the PDFs I suppose if you want one whole transcript file.
+If you want to download the transcript, you can do it under “FILE”, “DOWNLOAD”, however PDF does not seem to work. An EPUB or a WORD file works, but you need to wait around a minute for it to start due to the size.
+Sites like [this one](https://www.freeconvert.com/) have up to 1GB convert size, so you can convert the Word to a PDF, but you can also directly download it from my [GDrive](https://drive.google.com/drive/folders/1hDHMKczYEKPWy4EerwNU-6CAVVnQbo37?usp=sharing).
+Keep in mind that the image quality will be worse but readable if you zoom-in.
 
 ::: details For original Google Docs only, not for this website
 
 Alas, this is the G-Docs limitation. If you had an idea of putting the Transcript elsewhere or such, you can let me know, but it is outside of my ability to host a site or the like unfortunately.
 
 Be free to archive the entire document if anything happens to this one & can share it on MoeWay etc. (give me and Nunko credit/don’t change it too much please, but can fix mistakes/improve etc.).
-
-_Unfortunately, I cannot make the document public on search engines, just through a link directly. So the best way is to simply share the link elsewhere, not sure why Google changed this…_
 
 I would like to add more videos and even archive the comments under the videos just in case in the future, but alas I am really burned out. It would take a LOT of work so I am not feeling it now.
 If anyone ever felt like doing it and helping, let me know, you are free to do so & help is welcome!
@@ -64,7 +45,7 @@ If anyone ever felt like doing it and helping, let me know, you are free to do s
 
 *You can always spot my notes through the italic non-bold purple colour (this version).*
 
-*I include links too, which are in [blue](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/) (click on the blue text & then on the link to use it...can try it!)*
+*I include links too, which are in [blue](https://tinyurl.com/msahpf58) (click on the blue text & then on the link to use it...can try it!)*
 
 *I mostly removed the bolded style because it was quite bloated and it was recommended to me to do it.*
 
@@ -83,9 +64,11 @@ _The normal underline marks important info by Dolly or to highlight discussed pa
 If the pictures don’t want to load, just wait for some time and they should load eventually.
 Let me know if you see white lines or glitching while scrolling (especially in the later half of the document) as I switched to the pageless mode which seems more fitting for a document this huge.
 After some testing, it seems to be due to a bloated browser (when you use lots of extensions like I do, and keep all your Cache/Cookies always etc.) so you can try letting it load a bit or simply clear your Cache/browser (it will sign you off), or you may have an unstable Internet connection or such.
+
 [**Yomitan**](https://github.com/themoeway/yomitan) by [**TheMoeWay**](https://learnjapanese.moe/) works for Google Docs, so use it; or you can use [**10ten/Rikaichamp**](https://chrome.google.com/webstore/detail/10ten-japanese-reader-rik/pnmaklegiibbioifkmfkgpfnmdehdfan) (or both).
-Since [Yomichan ended development](https://foosoft.net/posts/sunsetting-the-yomichan-project/), it will likely become incompatible in the future and Yomitan continues its legacy now. RIP Legend.  Another continuation is [**Yomibaba**](https://github.com/forsakeninfinity/yomibaba), if anything happens to Yomitan.
-However, Yomitan cannot scan differently modified text, e.g. 歩く / 歩く / 歩く (く is italic) so scanning both will result in Yomitan not being able to scan both at once… I do not know why this is, if you know please PM me… however, 10ten/Rikaichamp is completely fine with scanning this, so use that one then.
+Since [Yomichan ended development](https://foosoft.net/posts/sunsetting-the-yomichan-project/), it will likely become incompatible in the future and Yomitan continues its legacy now. RIP Legend.
+
+However, Yomitan cannot scan differently modified text, e.g. **歩**く / 歩く / 歩*く* (く is italic) so scanning both will result in Yomitan not being able to scan both at once… I do not know why this is, if you know please PM me… however, 10ten/Rikaichamp is completely fine with scanning this, so use that one then.
 
 :::
 
