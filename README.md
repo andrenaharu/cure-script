@@ -1,7 +1,9 @@
 **[Read from 1st lesson
 ](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)**
 
-# Intro
+# Credit
+
+All markdown files under the “cure-dolly/” directory have been forked from [Kellenok/cure-script](https://github.com/Kellenok/cure-script).
 
 First and foremost, this project only exists because Mordraug and Nunko spent a lot of time transcribing all of Cure Dolly's videos and sharing them in [this Google Docs](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/). Many thanks to them!
 

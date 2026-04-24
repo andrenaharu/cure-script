@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress';
-import { sidebar } from './sidebar.mts'; 
+import { sidebar } from './sidebar.mts';
 
 export default defineConfig({
   title: "Cure Dolly",
@@ -26,7 +26,7 @@ export default defineConfig({
       lazyLoading: true
     }
   },
-  
+
   head: [
     [
       'link',
@@ -50,30 +50,30 @@ export default defineConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: 'https://kellenok.github.io/cure-script' }],
     ['meta', { name: 'twitter:url', content: 'https://kellenok.github.io/cure-script' }],
-    ['meta', { name: 'twitter:card', content: 'summary_large_image' } ],
-    ['meta', { name: 'twitter:title', content: 'Cure Dolly Grammar guide' } ],
-    ['meta', { name: 'twitter:description', content: 'Enjoy the entire grammar guide in a easy-to-read web format' } ],
-    ['meta', { name: 'twitter:image', content: '/cure-script/og.png' } ],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Cure Dolly Grammar guide' }],
+    ['meta', { name: 'twitter:description', content: 'Enjoy the entire grammar guide in a easy-to-read web format' }],
+    ['meta', { name: 'twitter:image', content: '/cure-script/og.png' }],
   ],
 
   themeConfig: {
     sidebar: sidebar,
     editLink: {
-      pattern: 'https://github.com/Kellenok/cure-script/edit/main/config/docs/:path'
+      pattern: 'https://github.com/andrenaharu/cure-script/edit/main/config/docs/:path'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Kellenok/cure-script' }
+      { icon: 'github', link: 'https://github.com/andrenaharu/cure-script/' }
     ],
     search: {
       provider: 'local'
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/about/about' }
+      { text: 'About', link: '/about' }
     ],
     footer: {
-      message: 'Created by <a href="https://bento.me/kln">Kellen</a>',
-      copyright: 'Originally transripted by <a href="https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc">nunko/dinuz</a>.'
+      message: 'Designed by Ann',
+      copyright: 'Credit by <a href="https://bento.me/kln">Kellen</a>. Originally transripted by <a href="https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc">nunko/dinuz</a>.'
     }
   }
 });

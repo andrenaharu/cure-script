@@ -10,7 +10,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       "collapsed": false,
       "items": [
         {
-          "text": "Intro",
+          "text": "Credit",
           "link": "/about"
         },
         {
@@ -111,7 +111,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
           "text": "20. Directionals: それ・その・そんな・そう etc.",
           "link": "/20-directionals-それ-その-そんな-そう-etc"
         }
-        ]
+      ]
     },
     {
       "text": "Advanced Grammar and Expressions",
